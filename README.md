@@ -14,7 +14,7 @@ formatString(
 
 Descargar con git, y luego importar... 
 
-import formatString
+from formatString import formatString
  
 print(formatString('text', 'verde'))
 
