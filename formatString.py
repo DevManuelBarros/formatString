@@ -2,7 +2,7 @@
 
 def formatString(text, color, b='negro', t='default'):
     colors = { 
-             'gray'       : '0',
+             'gris'       : '0',
              'rojo'       : '1',
              'verde'      : '2',
              'amarillo'   : '3',
